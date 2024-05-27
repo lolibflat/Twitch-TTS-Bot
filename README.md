@@ -1,5 +1,7 @@
 <h1> Twitch text-to-speech chat bot</h1>
 
+To run the program, download the TTS_Bot directory, extract it and run the executable
+
 <img alt="app screen" src="https://github.com/lolibflat/Twitch-TTS-Bot/blob/main/tts%20bot.png">
 
 Insert your token, client ID and username to use the chatbot.
